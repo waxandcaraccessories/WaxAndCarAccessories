@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wax & Car",
-    "currentPage": "accessories.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "3.10.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 62,
     "versionPublish": "3.10.3"
   },
   "pages": {
@@ -1163,10 +1163,157 @@
           "_anchor": "content2-1g",
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Why do I need this product</p></blockquote><blockquote><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Whats the benefit when i buy from you</p></blockquote><blockquote><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Why must I do the refurbish at your place</p></blockquote><blockquote><p>4.&nbsp;&nbsp;&nbsp;&nbsp;How different you are from your competitors</p></blockquote><blockquote><p>5.&nbsp;&nbsp;&nbsp;&nbsp;Where and when can i get this product</p></blockquote>"
+          "text": "<blockquote><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Why do I need this product</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content1-1h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>This product not only helps in beautify your cars interior but also helps you to relax your eyesight when you are driving.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>2.    Whats the benefit when i buy from you</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content1-1j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>.Our product is 100% organic and harmful even with direct contact except eyes.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>3.    Why must I do the refurbish at your place</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#2b0680"
+            }
+          },
+          "_anchor": "content1-1l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We provide 90 days warranty if the refurbish job was done by us.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>4.    How different you are from your competitors</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2b0680",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Our product is 100% made in Malaysia and our prices is the cheapest among our competitors</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>5.    Where and when can i get this product</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#2b0680",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "content1-1p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>You can walk in into our showroom or you can order online and we will come to you.When and where is up to you.</p>"
         }
       ]
     },

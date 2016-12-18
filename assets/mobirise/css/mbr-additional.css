@@ -728,6 +728,26 @@ h6,
 #content2-1g BLOCKQUOTE {
   text-align: left;
 }
+#content1-1h P {
+  text-align: right;
+  color: #2b0680;
+}
+#content1-1j P {
+  text-align: right;
+  color: #2b0680;
+}
+#content1-1l P {
+  text-align: right;
+  color: #2b0680;
+}
+#content1-1n P {
+  color: #2b0680;
+  text-align: right;
+}
+#content1-1p P {
+  color: #2b0680;
+  text-align: right;
+}
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
